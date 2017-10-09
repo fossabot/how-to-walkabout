@@ -1,4 +1,6 @@
 # How To Organize Your Own Walkabout Event
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhow-to-walkabout.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhow-to-walkabout?ref=badge_shield)
+
 [Harvest](http://www.getharvest.com), a leader in time tracking, created [WalkaboutNYC](http://www.walkaboutnyc.com) in 2010, and has been organizing this event in New York City each year since. Over the years, we've had many inquiries from people who want to organize Walkabouts outside New York City, so we decided to open source the idea, and share our experience. We hope that this will help you along as you prepare for your own event.
 
 ### What's so special about Walkabout?
@@ -56,3 +58,6 @@ Please direct all feedback, questions and issues to the [issues section](https:/
 * Concept by [Danny Wen](http://www.getharvest.com/about/meet-the-team#danny-wen) and [Shawn Liu](http://www.getharvest.com/about/meet-the-team#shawn-liu)
 * Contribution, organization, and documentation by [Karen Schoellkopf](http://flavors.me/kgunette)
 * Additional notes by [Kristine Lauria](http://www.krissymo.com/)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhow-to-walkabout.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhow-to-walkabout?ref=badge_large)
